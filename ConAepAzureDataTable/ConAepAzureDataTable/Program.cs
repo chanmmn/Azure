@@ -14,9 +14,9 @@ namespace ConAepAzureDataTable
 
             // Construct a new "TableServiceClient using a TableSharedKeyCredential.
 
-            string storageUri = @"https://storageaccountnewcmm.table.core.windows.net/";
-            string accountName = @"storageaccountnewcmm";
-            string storageAccountKey = @"KlZYuWWok5z8G5GHkDZ0FDD0bEKJiBDc4ZXGZlTmuLUFCr11dcIv2Uo14pUb7P4xgcCO5/CHe3L7+AStrOYIHA==";
+            string storageUri = @"https://yourstorageaccount.table.core.windows.net/";
+            string accountName = @"storageaccount";
+            string storageAccountKey = @"KlZYuWWok5z8G5GHkDZ0FDD0bEKJiBDc4ZXGZlTmuLU";
 
             var serviceClient = new TableServiceClient(
                 new Uri(storageUri),

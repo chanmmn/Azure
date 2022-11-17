@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AvheQmBF+IHzvXGv0lx2Wejc8gBKE9I8GT+PZ5mg+cLCHA8aL4HOH/aMezSMi80oEYY9Mn3lIxaYjCEIP6jpFA==",
+  "dgSpecHash": "0I+vvrv/1T3tMvVFBAxI3wz2xh4EnwPKWXYH0S8wfgXgl7sQvSVw21lUNUlPSICIVt02wg9nhauANfG5MDYSBw==",
   "success": true,
-  "projectFilePath": "C:\\test\\other\\Training\\ConAepAzureDataTable\\ConAepAzureDataTable\\ConAepAzureDataTable.csproj",
+  "projectFilePath": "C:\\git\\Azure\\ConAepAzureDataTable\\ConAepAzureDataTable\\ConAepAzureDataTable.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chan-mingman\\.nuget\\packages\\azure.core\\1.26.0\\azure.core.1.26.0.nupkg.sha512",
     "C:\\Users\\chan-mingman\\.nuget\\packages\\azure.data.tables\\12.7.0\\azure.data.tables.12.7.0.nupkg.sha512",

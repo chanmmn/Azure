@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\test\\other\\Training\\ConAepAzureDataTable\\ConAepAzureDataTable\\ConAepAzureDataTable.csproj": {}
+    "C:\\git\\Azure\\ConAepAzureDataTable\\ConAepAzureDataTable\\ConAepAzureDataTable.csproj": {}
   },
   "projects": {
-    "C:\\test\\other\\Training\\ConAepAzureDataTable\\ConAepAzureDataTable\\ConAepAzureDataTable.csproj": {
+    "C:\\git\\Azure\\ConAepAzureDataTable\\ConAepAzureDataTable\\ConAepAzureDataTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\test\\other\\Training\\ConAepAzureDataTable\\ConAepAzureDataTable\\ConAepAzureDataTable.csproj",
+        "projectUniqueName": "C:\\git\\Azure\\ConAepAzureDataTable\\ConAepAzureDataTable\\ConAepAzureDataTable.csproj",
         "projectName": "ConAepAzureDataTable",
-        "projectPath": "C:\\test\\other\\Training\\ConAepAzureDataTable\\ConAepAzureDataTable\\ConAepAzureDataTable.csproj",
+        "projectPath": "C:\\git\\Azure\\ConAepAzureDataTable\\ConAepAzureDataTable\\ConAepAzureDataTable.csproj",
         "packagesPath": "C:\\Users\\chan-mingman\\.nuget\\packages\\",
-        "outputPath": "C:\\test\\other\\Training\\ConAepAzureDataTable\\ConAepAzureDataTable\\obj\\",
+        "outputPath": "C:\\git\\Azure\\ConAepAzureDataTable\\ConAepAzureDataTable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
